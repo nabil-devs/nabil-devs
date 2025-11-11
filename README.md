@@ -8,7 +8,7 @@ Let me know if you have any questions!
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8wf3KuwpcC) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nabil.devs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nabil.devs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gvsnowontop@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8wf3KuwpcC) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nabil.devs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nabil.devs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gvsnowontop@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nabil.devs) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nabildevs)
 
 # 💻 Tech Stack:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -76,8 +76,6 @@ Let me know if you have any questions!
 ![](https://github-contributor-stats.vercel.app/api?username=nabil-devs&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=merlinfuchs&icon=3&color=1)](https://visitcount.itsvg.in)
-
-https://raw.githubusercontent.com/nabil-devs/snake/github-contribution-grid-snake-dark.svg
+[![](https://visitcount.itsvg.in/api?id=nabil-devs&icon=3&color=1)](https://visitcount.itsvg.in)
 
 [![](https://camo.githubusercontent.com/20071840fe4d8e4667c1e1e49bf39d04be8e66cf5579e89f945ab4cc826bc8a9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3230302673656374696f6e3d666f6f746572)
