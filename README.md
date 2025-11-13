@@ -76,6 +76,16 @@ Let me know if you have any questions!
 ![](https://github-contributor-stats.vercel.app/api?username=nabil-devs&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nabil-devs&icon=3&color=1)](https://visitcount.itsvg.in)
 
-[![](https://camo.githubusercontent.com/20071840fe4d8e4667c1e1e49bf39d04be8e66cf5579e89f945ab4cc826bc8a9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3230302673656374696f6e3d666f6f746572)
+<p align="center">
+  <picture>
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=nabil-devs&show_icons=true&bg_color=88888811&border_color=88888833&text_color=888888&custom_title=GitHub&rank_icon=percentile&number_format=long" draggable="false" />
+  </picture>
+  <picture>
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-devs&bg_color=88888811&border_color=88888833&text_color=888888&layout=compact&size_weight=0.5&count_weight=0&langs_count=8" draggable="false" />
+  </picture>
+  <br>
+  <picture>
+    <img src="profile-3d-contrib/profile-customize.svg" draggable="false" />
+  </picture>
+</p>
