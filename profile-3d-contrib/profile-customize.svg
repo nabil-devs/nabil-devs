@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850">
+<style>* { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }</style>
+<rect x="0" y="0" width="1280" height="850" fill="#33333300"></rect>
+<g>
+  
+  <g transform="translate(980, 284.5)">
+    <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="0" y="-182.52" fill="#888888">Commit<title>DYNAMIC_COMMIT_COUNT</title></text>
+    <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="185.46" y="-56.4" fill="#888888">Issue<title>DYNAMIC_ISSUE_COUNT</title></text>
+    <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="114.62" y="147.66" fill="#888888">PullReq<title>DYNAMIC_PR_COUNT</title></text>
+    <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="-114.62" y="147.66" fill="#888888">Review<title>DYNAMIC_REVIEW_COUNT</title></text>
+    <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="-185.46" y="-56.4" fill="#888888">Repo<title>DYNAMIC_REPO_COUNT</title></text>
+  </g>
+  
+  <g transform="translate(40, 520)">
+    <g transform="translate(273, 0)">
+      <text dominant-baseline="middle" x="26" y="65" fill="#888888" font-size="21.666666666666668px">DYNAMIC_TOP_LANGUAGE_1</text>
+      <text dominant-baseline="middle" x="26" y="97.5" fill="#888888" font-size="21.666666666666668px">DYNAMIC_TOP_LANGUAGE_2</text>
+      <text dominant-baseline="middle" x="26" y="130" fill="#888888" font-size="21.666666666666668px">DYNAMIC_TOP_LANGUAGE_3</text>
+      <text dominant-baseline="middle" x="26" y="162.5" fill="#888888" font-size="21.666666666666668px">DYNAMIC_TOP_LANGUAGE_4</text>
+      <text dominant-baseline="middle" x="26" y="195" fill="#888888" font-size="21.666666666666668px">other</text>
+    </g>
+  </g>
+  
+  <g>
+    <text style="font-size: 32px; font-weight: bold;" x="384" y="830" text-anchor="end" fill="#888888">DYNAMIC_TOTAL_CONTRIBUTIONS</text>
+    <text style="font-size: 24px;" x="394" y="830" text-anchor="start" fill="#888888">contributions</text>
+    <text style="font-size: 32px; font-weight: bold;" x="650" y="830" text-anchor="start" fill="#888888">DYNAMIC_STARS_COUNT</text>
+    <text style="font-size: 32px; font-weight: bold;" x="772" y="830" text-anchor="start" fill="#888888">DYNAMIC_FORKS_COUNT</text>
+    <text style="font-size: 16px;" x="1260" y="20" dominant-baseline="hanging" text-anchor="end" fill="#888888aa">DYNAMIC_DATE_RANGE</text>
+  </g>
+</g>
+</svg>
