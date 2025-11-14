@@ -77,9 +77,3 @@ Let me know if you have any questions!
 
 ---
 
-<p align="center">
-  <br>
-  <picture>
-    <img src="profile-3d-contrib/profile-customize.svg" draggable="false" />
-  </picture>
-</p>
