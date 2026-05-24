@@ -4,15 +4,11 @@
 
 <div align="center" style="font-size:0;"> 
  
-<a href="https://discord.com/users/371476189841457152"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a><a href="mailto:contact@nabil.onl"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://x.com/t8of4"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
-
+<a href="https://discord.com/users/371476189841457152"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
 ---
 
-## About Me
-
-### My favorite tools/technologies
 <div align="center">
  <table>
    <tr>
@@ -108,21 +104,3 @@
  </table>
 </div>
 
-### My Activity
-<div align="center">
-
-<div align="center">
-<a href="#"><p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=8of4&color=gray" /></p> </a>
-<br></div>
-  
-[![Discord Presence](https://lanyard.kyrie25.dev/api/371476189841457152?showDisplayName=false&forceGradient=false&hideDecoration=true&animatedDecoration=true&hideStatus=false&hideProfile=false&hideSpotify=false&hideNameplate=true&hideBadges=true&hideActivity=true&bg=000&gradient=ffff&showBanner=animated)](https://discord.com/users/371476189841457152)
-
-</div>
-
----
-
-### Thanks for reading!
-
-Feel free to explore my repos, star something you like.
-
-<a href="#"><img align="center" alt="End" width="100%" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
