@@ -59,16 +59,16 @@
        <br>PostgreSQL
      </td>
      <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-       <br>MySQL
-     </td>
-     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
        <br>MongoDB
      </td>
      <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
        <br>Prisma
+     </td>
+     <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+       <br>Figma
      </td>
    </tr>
    <tr>
@@ -101,6 +101,35 @@
        <br>Bash
      </td>
    </tr>
+   <tr>
+     <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
+       <br>Discord
+     </td>
+     <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="Stack Overflow" />
+       <br>Stack Overflow
+     </td>
+     <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" />
+       <br>Raspberry Pi
+     </td>
+     <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=spotify" width="48" height="48" alt="Spotify" />
+       <br>Spotify
+     </td>
+     <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+       <br>Redis
+     </td>
+     <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+       <br>Nginx
+     </td>
+     <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
+       <br>NPM
+     </td>
+   </tr>
  </table>
 </div>
-
